@@ -1,0 +1,1 @@
+# test -c mirror --parallel=100 http://materials.example.com/ ;exit
